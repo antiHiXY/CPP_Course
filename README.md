@@ -33,8 +33,6 @@
 - ✍️ [Канал курса](https://t.me/+t3XbmeCH35FhNzQy)
 - 📊 [Таблица с оценками](https://docs.google.com/spreadsheets/d/1PjQLyY4yQQ7uXkRIxZ1EMQxH4N8vir9UH3POtVq-a7E/edit?gid=161559299#gid=161559299)
 
-*(ссылки добавляются преподавателем)*
-
 ---
 
 ## Материалы
